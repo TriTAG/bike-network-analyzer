@@ -4,7 +4,7 @@
 
 Map of 'bikeable' trips following likely routes based on infrastructure preferences model, using 2011 Transportation for Tomorrow Survey origin/destination pairs and OpenStreetMap (extracted March 5, 2017). 'Bikeable' trips are defined as 1-5 km with no passengers.
 ![Sample map](https://raw.githubusercontent.com/TriTAG/bike-network-analyzer/master/sample.png)
-```diff
-+ Green = least cycling demand
-- Red = greatest cycling demand
-```
+
+- !(https://placehold.it/15/ff0000/000000?text=+) `greatest cycling demand`
+- !(https://placehold.it/15/00ff00/000000?text=+) `least cycling demand`
+
