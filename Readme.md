@@ -23,7 +23,7 @@ For now, the analyzer considers a single 'shortest' path for each origin/destina
 Weights are cumulative, e.g. a bike lane on a busy street would give 0.5\*1.7 = 0.85. Weights are loosely based on the route preference models of Hood et al. and Transport for London. 
 
 ## References
-- Transportation for Tomorrow Survey: (Data Management Group)[http://dmg.utoronto.ca]
-- (Open Street Map)[http://openstreetmap.org]
-- Hood et al., (A GPS-based bicycle route choice model for San Francisco, California)[http://www.sfcta.org/sites/default/files/content/IT/CycleTracks/BikeRouteChoiceModel.pdf]
-- Transport for London, (Cycle route choice)[http://content.tfl.gov.uk/understanding-cycle-route-choice.pdf]
+- Transportation for Tomorrow Survey: [Data Management Group](http://dmg.utoronto.ca)
+- [Open Street Map](http://openstreetmap.org)
+- Hood et al., [A GPS-based bicycle route choice model for San Francisco, California](http://www.sfcta.org/sites/default/files/content/IT/CycleTracks/BikeRouteChoiceModel.pdf)
+- Transport for London, [Cycle route choice](http://content.tfl.gov.uk/understanding-cycle-route-choice.pdf)
